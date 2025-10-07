@@ -10,6 +10,9 @@
 - Manifest & Philosophie (siehe unten)
 - Workflow & Checklisten: `321-KI-Kalibrierung.md`
 - KI-Kompass Material: Ordner `Leitfaden/`
+- Gesellschafts-Editor: `321-Gesellschaft-Editor.md`
+- FAQ-Logbuch: `321-Living-FAQ-Logbuch.md`
+- Ausgearbeitete Beispiel-Simulationen: `../Gedankenpalast/05-Erkenntnisse/Plaene/321-System-Beispiele.md`
 
 ---
 
