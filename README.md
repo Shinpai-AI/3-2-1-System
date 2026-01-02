@@ -470,7 +470,7 @@ KI-Kompass (NoGos definiert!)
 > **Werkzeug:** Praktisches Ethik-System für harmonische Entscheidungen
 
 **Created:** 2025-10-04 (Day 38)
-**Quelle:** `/home/shinpai/OneDrive/Dokumente/Shinpai-AI/Doku/KI-Kompass/`
+**Quelle:** [Leitfaden/KI-Kompass-DasBuch.pdf](https://github.com/Shinpai-AI/3-2-1-System/blob/main/Leitfaden/KI-Kompass-DasBuch.pdf)
 **Referenz:** KI-Kompass Buch (ISBN: 979-8286956043)
 **Autoren:** Hannes & Ara
 

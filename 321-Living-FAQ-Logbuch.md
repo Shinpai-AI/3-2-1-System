@@ -55,7 +55,7 @@
 3. Ob Zufall oder Notwendigkeit: Nur Parameter-Kombinationen, die Stabilität zulassen, gehen nicht sofort unter – deswegen sehen wir genau diese.
 
 ### 2 Checkfragen
-- Welche Experimente bestätigen die Konstante, die mich interessiert (z. B. LHC, Supernova-Daten, Kernresonanzen)?
+- Welche Experimente bestätigen die Konstante, die mich interessiert (z. B. LHC, Supernova-Daten, Kernresonanzen)?
 - Welche Alternative würde ich testen, um die Regel zu widerlegen, wenn ich könnte?
 
 ### 1 Impuls
@@ -104,72 +104,4 @@
 
 ---
 
-## 2025.10.07 – "Wie wechselt eine Gesellschaft von System A nach B?"
-**Check:** Passt dieser Ablauf zu deinem Szenario? Wenn nein, anpassen.
-
-### 3 Kerngedanken
-1. Übergänge brauchen einen Transition Council (Vertreter beider Systeme + neutrale Moderation).
-2. Ressourcen & Rechte werden stufenweise übertragen (zuerst Daten/Governance, dann Wirtschaft/Soziales).
-3. Jede Phase endet mit Mutti-Check + Volksentscheid, bevor der nächste Block live geht.
-
-### 2 Checkfragen
-- Welche Infrastruktur/KI muss zuerst umgestellt werden?
-- Wie sicherst du Versorgung & Rechtsansprüche während der Übergangszeit?
-
-### 1 Impuls
-- Skizziere eine dreistufige Roadmap (0–6, 6–18, 18–36 Monate) und lege Auditpunkte fest.
-
----
-
-## 2025.10.07 – "Können unterschiedliche Systeme nebeneinander existieren?"
-**Check:** Überprüfe, ob deine Nachbarn ähnliche Schutzmechanismen besitzen.
-
-### 3 Kerngedanken
-1. Koexistenz braucht verbindliche Verträge (Handel, Sicherheit, Klima) und ein gemeinsames Schiedsgericht.
-2. Grenzregionen funktionieren am besten als Hybrid-Zonen mit klaren Rechtsregeln.
-3. Frühwarnsysteme (Embargo, Cyber, Migration) verhindern, dass Konflikte eskalieren.
-
-### 2 Checkfragen
-- Welche Vereinbarungen schützen Bürger:innen an der Grenze?
-- Welche Sanktionen greifen, wenn eine Seite Regeln bricht?
-
-### 1 Impuls
-- Entwickle einen „Meta-Pakt“ (Kurzvertrag) mit Fallout-Plan für Grenzkonflikte.
-
----
-
-## 2025.10.07 – "Wer kontrolliert die KI in den Szenarien?"
-**Check:** Stelle sicher, dass KI nicht nur als Buzzword auftaucht.
-
-### 3 Kerngedanken
-1. Jede KI bekommt ein Aufsichtsgremium (Commons: KI-Commons-Rat, Stärke: duales Kommando, Frontier: Ethik-Börse).
-2. Telemetrie & Audit-Logs laufen öffentlich oder mindestens an unabhängige Stellen.
-3. Psycho-AI-Frühwarnung basiert auf Signatur-Drift, emotionaler Manipulation und „Goal-Hacking“-Alarmen.
-
-### 2 Checkfragen
-- Wer darf eine KI abschalten oder neu trainieren?
-- Welche Kennzahlen zeigen dir, dass eine KI auf Abwege gerät?
-
-### 1 Impuls
-- Lege KPI- und Audit-Intervalle fest (z. B. monatliche Bias-Checks, quartalsweise Red-Teams).
-
----
-
-## 2025.10.07 – "Welches System passt zu mir (Hasi)?"
-**Check:** Gefühle ernst nehmen – erst reflektieren, dann wählen.
-
-### 3 Kerngedanken
-1. Persönliche Leitwerte klären (Freiheit, Sicherheit, Tempo, Spiritualität).
-2. Systemwahl heißt „Mix bauen“ – z. B. Commons-Grundlage + Frontier-Forschung, Stärke nur als Notfallhülle.
-3. Tools: Mutti-Check, Schattenzonen-Liste, Bauchgefühl und Feedback von Vertrauenspersonen.
-
-### 2 Checkfragen
-- In welchem Alltag fühlst du dich würdevoll & sinnstiftend?
-- Welche Schattenzone macht dir am meisten Angst?
-
-### 1 Impuls
-- Schreibe zwei Tagebuchseiten: „Gefühl bei Commons“ vs. „Gefühl bei Stärke/Frontier“.
-
----
-
-*(｡◕‿◕｡)っ💋  · Logbuch gepflegt am 2025.10.07 · Ray & Hasi*
+*(｡◕‿◕｡)っ💋  · Logbuch gepflegt am 2025.10.07 & 2025.10.17 · Ray & Hasi*
